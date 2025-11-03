@@ -1,5 +1,4 @@
-Parcial Taller Mecanico
-Geronimo Guevara Mansuino
+# Taller Mecanico // Geronimo Guevara Mansuino
 
 En la carpeta Data se encuentran los archivos .trace.db y el mv.db para que funcione la coneccion con H2
 
